@@ -1,0 +1,29 @@
+.points-box{
+    display: flex;
+    border: solid 3px grey;
+    padding: 70px;
+    border-radius: 15px;
+    gap: 30px;
+}
+
+.points__container{
+    width:200px;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.points__title{
+    color: var(--header-outline);
+}
+
+.points__value{
+    color: grey;
+    font-size: 3rem;
+}
+
+.game__title{
+    width: 250px;
+    text-align: center;
+    font-size: 3rem;
+}
